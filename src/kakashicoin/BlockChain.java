@@ -1,4 +1,4 @@
-package danchain;
+package kakashicoin;
 
 import java.util.ArrayList;
 
